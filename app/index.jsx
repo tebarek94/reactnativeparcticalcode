@@ -15,6 +15,7 @@ const Home = () => {
         <Text>Hello, this is a card</Text>
       </View>
       <Link href="/about" style={{ marginTop: 30 }}>Go to About Page</Link>
+      <Link href="/contact" style={{ marginTop: 10 }}>Go to Contact Page</Link>
     </View>
   );
 };
